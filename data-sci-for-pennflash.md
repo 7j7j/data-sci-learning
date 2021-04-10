@@ -14,12 +14,16 @@ meaningless without qual: how else do we define what we should count as well as 
 
 In principle, you can self-learn any of the above, but it really depends on your own motivations and interests what you learn better in a structured classroom. 
 I have personally found my academic training, especially in grad school, essential for the stats and helpful for the coding.
-I work best in team environments and I think most coding is learned by doing: structured work environments are an alternative to class if you are similar to me.
+I work best in team environments and I think coding is best learned by doing: structured work environments can substitute for classes if you are similar to me, but I think I 
+would probably have benefited from the intro CIS classes a lot. It is fab what you can also learn from MOOCs, blogs, and peer message boards now.
 
-Domain knowledge is probably best guided by your personal passions and interests in any case. In my case, bio+social science have been what I love learning for 15+ years 
-since freshman year in one form or another: public health is a really good meeting point to work on these, as is agriculture & nutrition. I've been really lucky to mostly 
-stay in this space in a career spanning business, policy, nonprofit and academic research work. To be clear, you don't actually have to do the science to know how to 
-commision, apply, and interpret it as a decision maker. But it helps a lot. I would love to see more scientists working in policy and business in these times.
+Domain knowledge is probably best guided by your personal passions and interests in any case. For example, if you are interested in fintech, take some ECON and Wharton 
+classes in FNCE, OPIM, MKTG, etc. 
+
+In my case, bio+social science have been what I love learning for 15+ years since freshman year in one form or another: public health is a really good meeting point to work 
+on these, as is agriculture & nutrition. I've been really lucky to mostly stay in this space in a career spanning roles in business, policy, nonprofits and academic research. 
+FYI: you don't actually have to do the science to know how to commision, apply, and interpret it as a decision maker. But it helps a lot. I would love to see more 
+scientists working in policy and business in these times.
 
 
 # Classes at Penn
