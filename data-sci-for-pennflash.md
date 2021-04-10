@@ -12,7 +12,7 @@ good qual to define what we should count as well as why and how it matters.
 In theory you can self-learn any of the above, but it really depends on your own motivations and interests what you learn better in a classroom vs. outside of it. 
 I have personally found my academic training, especially in grad school, essential for the stats and helpful for the coding. 
 Domain knowledge is probably best guided by your personal passions and interests in any case. In my case, bio+social science have been in my studies and work for 
->10 years since freshman year in one form or another: public health is a really good meeting point of the two, and so is agriculture + nutrition.
+10+ years since freshman year in one form or another: public health is a really good meeting point of the two, and so is agriculture + nutrition.
 
 # Classes at Penn
 
