@@ -2,11 +2,15 @@
 Repo of various resources and links for anyone, but especially for motivated undegrad students who have asked via Penn FLASH for mentoring advice.
 
 # Classes at Penn
-Since I only really transitioned to data science in the last 5 years from my jobs in consulting, I don’t have direct advice for Penn classes beyond the intro stats and comp sci classes. It definitely looks to me like STAT 111, STAT 112, and CIS120 are important prereqs.
 
-The <a href="https://catalog.upenn.edu/undergraduate/programs/data-science-minor/">comp sci catalog</a> for Penn's data science minor looks solid.
+I was HSOC + ECON. For health data science, I think HSOC + STAT or HSOC + CIS would be an even more potent combo.
+However, very possible to be exposed to quant tools and research projects that directly translate into data science via BIOL, SOCI, PSCI, all of SEAS, etc. 
+NB many of the best course options likely to be grad courses, e.g. MS or MPH level biostats is most direct in some ways, but <a href="https://www.bio.upenn.edu/undergraduate/concentrations/computational-and-mathematical-biology">Penn biology major</a> 
+with computational and mathematical concentration is also excellent!
 
-If you do nail those initial stats classes, you might be able to get into some of the epi and biostats courses in the School of Medicine in your junior or senior year. Definitely ask with an HSOC major advisor or someone in SoM to check if they will plausibly let you in as an upperclass student to some of the <a href="https://www.med.upenn.edu/ggeb/bsta-course-descriptions.html">biostats (BSTA) classes</a> so long as you’ve fulfilled some prereqs. If they let you in the class, I am almost certain HSOC will let you count it toward your major.
+Since I only really transitioned to data science in the last 5 years from my jobs in consulting, I don’t have direct advice for Penn classes beyond the intro stats and comp sci classes. It definitely looks to me like STAT 111, STAT 112, and CIS120 are important prereqs. The <a href="https://catalog.upenn.edu/undergraduate/programs/data-science-minor/">comp sci catalog</a> for Penn's data science minor looks solid. Beyond the prereqs, I don't think there is any obligation to do the full minor although it is obviously an official credential. I definitely suggest going where your interests take you - if you want to do scientific research or evaluation, tools in inference will tend to be your best bet, but creative product and service development includes a very contrasting set of skills, e.g. in NLP/text mining, GIS tools, generative networks, etc.
+
+If you nail the initial stats classes, you might be able to get into some of the epi and biostats courses in the School of Medicine in your junior or senior year. Definitely ask with the appropriate academic faculty in SoM to check if they will plausibly let you in as an upperclass student to some of the <a href="https://www.med.upenn.edu/ggeb/bsta-course-descriptions.html">biostats (BSTA) classes</a> - this is more likely if you’ve fulfilled some prereqs like the STAT classes. 
 
 <a href="https://economics.sas.upenn.edu/system/files/2019-01/Syllabus_Spring2019_Short.pdf">ECON/HCMG 236</a> is great if you end up doing more economics, but it is very much not an intro course. I also personally took <a href="https://www.med.upenn.edu/globalhealth/assets/user-content/documents/PUBH519%20syllabus%202017.pdf">a great Issues in Global Health class (PUBH519)</a> and counted it toward my HSOC requirements. This class is mixed methods (not really data sci at all) but it is very policy-oriented and super interesting.
 
@@ -16,6 +20,7 @@ If you can’t get into the BSTA classes but you can be let into some of <a href
 -	PUBH605 – defo see some biostats/modelling tools implied there
 -	PUBH610 – infectious disease modelling, i.e. using math to simulate germs; I gave a <a href="https://github.com/7j7j/SEIR-model-basics/blob/master/200610-NHSEI-huddle-SEIR-models-JS-vF.pdf">gentle intro talk</a> to NHS colleagues on these tools
 
+I am almost certain HSOC will let you count any of the above toward your major, if you can get into the classes. Other majors TBD.
 
 Penn in general attracts a lot of hyper-talented applied statisticians so there are more names out there – definitely recommend sneaking into public talks or workshops if the
 opportunity arises: some of the statisticians I frequently cite/read who are currently at Penn are Luke Keele, Paul Rosenbaum, and Eric Tchetgen Tchetgen. I don't think any 
