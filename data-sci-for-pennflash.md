@@ -9,13 +9,13 @@ There are broadly <b>three pillars of data science</b>:
 My philosophy is that quants should respect quals and we should learn from each other. Numbers/quant outcomes point to effects existing and their magnitude, but it takes 
 good qual to define what we should count as well as why and how it matters.
 
-In theory you can self-learn any of the above, but it really depends on your own motivations and interests what you learn better in a classroom vs. outside of it. 
-I have personally found my academic training, especially in grad school, essential for the stats and helpful for the coding. 
+In principle, you can self-learn any of the above, but it really depends on your own motivations and interests what you learn better in a structured classroom. 
+I have personally found my academic training, especially in grad school, essential for the stats and helpful for the coding.
+I work best in team environments and I think most coding is learned by doing: structured work environments are an alternative to class if you are similar to me.
 Domain knowledge is probably best guided by your personal passions and interests in any case. In my case, bio+social science have been in my studies and work for 
-10+ years since freshman year in one form or another: public health is a really good meeting point of the two, and so is agriculture + nutrition.
+10+ years since freshman year in one form or another: public health is a really good meeting point for these, as is agriculture + nutrition.
 
 # Classes at Penn
-
 I did HSOC + ECON many, many moons ago as an undergrad. For health data science nowadays, I think HSOC + STAT or HSOC + CIS would be an even more potent combo.
 However, it is very possible to be exposed to quant tools and research projects that directly translate into data science via BIOL, SOCI, PSCI, all of SEAS, etc. 
 NB many of the best course options likely to be graduate-level, e.g. MS or MPH level biostats is most suited to real-world health data sci, but <a href="https://www.bio.upenn.edu/undergraduate/concentrations/computational-and-mathematical-biology">Penn biology major 
@@ -36,10 +36,11 @@ If you can’t get into the BSTA classes but you can be let into some of <a href
 I am almost certain HSOC will let you count any of the above toward your major, if you can get into the classes. Other majors TBD.
 
 Penn in general attracts a lot of hyper-talented applied statisticians so there are more names out there – definitely recommend sneaking into public talks or workshops if the
-opportunity arises: some of the statisticians I frequently cite/read who are currently at Penn are Luke Keele, Paul Rosenbaum, and Eric Tchetgen Tchetgen. I don't think any 
-of these folks teaches undergrads, but go hear them talk if you can! And know they have many more colleagues who are excellent and pushing the frontiers of data science.
+opportunity arises: some of the statisticians I frequently cite/read who are currently at Penn are Luke Keele, Paul Rosenbaum, and Eric Tchetgen Tchetgen. I don't think 
+any of them teaches undergrads, but go hear them talk if you can! And know they have many more colleagues who are excellent and pushing the frontiers of data science.
 
-This is not really undergrad level at all but there are public open seminars given by some of these folks and similar in my world of “causal inference”, organised by the Stanford stats department: https://sites.google.com/view/ocis/past-talks-and-recordings?authuser=0
+This is not really undergrad level at all but there are public open seminars given by some of these folks and similar in my world of “causal inference”, 
+organised by the Stanford stats department: https://sites.google.com/view/ocis/past-talks-and-recordings?authuser=0
 
 
 # Peer learning resources
@@ -47,12 +48,14 @@ This is not really undergrad level at all but there are public open seminars giv
 - R Ladies: https://rladies.org/about-us/
 - StackExchange: https://datascience.stackexchange.com/ (nb YMMV, sometimes the one-eyed lead the blind)
 
+
 # Health-focused data science taster courses (Coursera, edX etc)
 1.	A very decent-looking course on applied health data science using Python (Edinburgh): https://www.coursera.org/learn/datascimed#syllabus
 2.	This one from MIT might also be in Python as well as R? https://www.edx.org/course/collaborative-data-science-for-healthcare
 3.	A gentle introduction to stats epi and health data sci (Imperial College London, R): https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health. See also https://www.coursera.org/specializations/statistical-analysis-r-public-health
 4.	A more intensive biostats-oriented data science course (Johns Hopkins, R): https://www.coursera.org/learn/biostatistics
 5.	The longer list here is actually not bad either: https://www.classcentral.com/tag/health-data-analysis
+
 
 # A random selection of courses and tools to learn data science programming, especially in R 
 1.	Good interactive package to learn R: https://swirlstats.com/ and see https://www.rstudio.com/resources/training/
@@ -62,6 +65,7 @@ This is not really undergrad level at all but there are public open seminars giv
 5.	Kaggle: https://www.kaggle.com/ (used to be for peer learning competitions, now has all sorts of resources from course content to message boards). It is okay to learn from hackathons but I would definitely recommend doing an intro course first so you can contribute some code/knowledge on how to build stuff.
 6.	A textbook on time series forecasting, which is one of the methods I use: https://otexts.com/fpp2/
 7.	Another excellent open textbook: https://www.statlearning.com/
+
 
 # Commentaries (understanding ‘what is and isn’t data science’ rather than the mechanics of how to do it):
 1.	“Statistics as a science, not an art: the way to survive in data science” (Mark van der Laan, Berkeley): https://magazine.amstat.org/blog/2015/02/01/statscience_feb2015/
