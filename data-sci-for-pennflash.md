@@ -6,14 +6,15 @@ There are broadly <b>three pillars of data science</b>:
 - <b>Computer science</b>, or knowing how to code math into tools and insights 
 - <b>Domain knowledge</b>, or knowing the actual underlying reality and context of any data you handle so you can design and interpret analysis properly
 
-My philosophy is that quants should respect quals and we should learn from each other. Numbers/quant outcomes point to effects existing and their magnitude, but it takes 
-good qual to define what we should count as well as why and how it matters.
+My philosophy is that quants should respect quals and we should learn from each other. Numbers/quant findings point to effects existing and their magnitude, but this is 
+meaningless without qual: how else do we define what we should count as well as why and how it all matters?
 
 In principle, you can self-learn any of the above, but it really depends on your own motivations and interests what you learn better in a structured classroom. 
 I have personally found my academic training, especially in grad school, essential for the stats and helpful for the coding.
 I work best in team environments and I think most coding is learned by doing: structured work environments are an alternative to class if you are similar to me.
 Domain knowledge is probably best guided by your personal passions and interests in any case. In my case, bio+social science have been in my studies and work for 
 10+ years since freshman year in one form or another: public health is a really good meeting point for these, as is agriculture + nutrition.
+
 
 # Classes at Penn
 I did HSOC + ECON many, many moons ago as an undergrad. For health data science nowadays, I think HSOC + STAT or HSOC + CIS would be an even more potent combo.
@@ -70,8 +71,9 @@ organised by the Stanford stats department: https://sites.google.com/view/ocis/p
 # Commentaries (understanding ‘what is and isn’t data science’ rather than the mechanics of how to do it):
 1.	“Statistics as a science, not an art: the way to survive in data science” (Mark van der Laan, Berkeley): https://magazine.amstat.org/blog/2015/02/01/statscience_feb2015/
 2.	“Beyond the hype: big data concepts, methods, and analytics” (Gandomi & Haider): https://doi.org/10.1016/j.ijinfomgt.2014.10.007
-3.	A sensibly skeptical view of unthoughtful or underregulated AI: https://weaponsofmathdestructionbook.com/
-4.	A nice lighthearted book about what AI does, and its very real and hilarious limitations by an expert who makes them: https://www.janelleshane.com/book-you-look-like-a-thing
+3.  Some empirical evidence of the above: "A systematic review shows no performance benefit of machine learning over logistic regression for clinical prediction models" (Christodolou, KU Leuven): https://www.jclinepi.com/article/S0895-4356(18)31081-3/abstract
+4.	A sensibly skeptical view of unthoughtful or underregulated AI: https://weaponsofmathdestructionbook.com/
+5.	A nice lighthearted book about what AI does, and its very real and hilarious limitations by an expert who makes them: https://www.janelleshane.com/book-you-look-like-a-thing
 
 # Further resources compiled with fab London School of Hygiene colleagues about how to learn R: 
 nb some overlap with the above
