@@ -3,10 +3,10 @@ Repo of various resources and links for anyone, but especially for motivated und
 
 # Classes at Penn
 
-I was HSOC + ECON. For health data science, I think HSOC + STAT or HSOC + CIS would be an even more potent combo.
-However, very possible to be exposed to quant tools and research projects that directly translate into data science via BIOL, SOCI, PSCI, all of SEAS, etc. 
-NB many of the best course options likely to be grad courses, e.g. MS or MPH level biostats is most direct in some ways, but <a href="https://www.bio.upenn.edu/undergraduate/concentrations/computational-and-mathematical-biology">Penn biology major</a> 
-with computational and mathematical concentration is also excellent!
+I did HSOC + ECON many, many moons ago as an undergrad. For health data science nowadays, I think HSOC + STAT or HSOC + CIS would be an even more potent combo.
+However, it is very possible to be exposed to quant tools and research projects that directly translate into data science via BIOL, SOCI, PSCI, all of SEAS, etc. 
+NB many of the best course options likely to be graduate-level, e.g. MS or MPH level biostats is most suited to real-world health data sci, but <a href="https://www.bio.upenn.edu/undergraduate/concentrations/computational-and-mathematical-biology">Penn biology major 
+with computational and mathematical concentration</a> would be excellent at undergrad level.
 
 Since I only really transitioned to data science in the last 5 years from my jobs in consulting, I don’t have direct advice for Penn classes beyond the intro stats and comp sci classes. It definitely looks to me like STAT 111, STAT 112, and CIS120 are important prereqs. The <a href="https://catalog.upenn.edu/undergraduate/programs/data-science-minor/">comp sci catalog</a> for Penn's data science minor looks solid. Beyond the prereqs, I don't think there is any obligation to do the full minor although it is obviously an official credential. I definitely suggest going where your interests take you - if you want to do scientific research or evaluation, tools in inference will tend to be your best bet, but creative product and service development includes a very contrasting set of skills, e.g. in NLP/text mining, GIS tools, generative networks, etc.
 
