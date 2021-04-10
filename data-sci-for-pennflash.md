@@ -2,13 +2,17 @@
 Repo of various resources and links for anyone, but especially for motivated undegrad students who have asked via Penn FLASH for mentoring advice.
 
 There are broadly <b>three pillars of data science</b>:
-- <b>Statistics</b>, or know how to apply math
+- <b>Statistics</b>, or knowing how to apply math
 - <b>Computer science</b>, or knowing how to code math into tools and insights 
 - <b>Domain knowledge</b>, or knowing the actual underlying reality and context of any data you handle so you can design and interpret analysis properly
 
 My philosophy is that quants should respect quals and we should learn from each other. Numbers/quant outcomes point to effects existing and their magnitude, but it takes 
 good qual to define what we should count as well as why and how it matters.
 
+In theory you can self-learn any of the above, but it really depends on your own motivations and interests what you learn better in a classroom vs. outside of it. 
+I have personally found my academic training, especially in grad school, essential for the stats and helpful for the coding. 
+Domain knowledge is probably best guided by your personal passions and interests in any case. In my case, bio+social science have been in my studies and work for 
+>10 years since freshman year in one form or another: public health is a really good meeting point of the two, and so is agriculture + nutrition.
 
 # Classes at Penn
 
