@@ -1,5 +1,5 @@
 # Learning resources in data science
-Repo of various resources and links for anyone, but especially for motivated undegrad students who have asked via Penn FLASH for mentoring advice.
+Repo of various resources and links for anyone, but especially for the fab undegrad students who have asked via Penn FLASH for advice.
 
 There are broadly <b>three pillars of data science</b>:
 - <b>Statistics</b>, or knowing how to apply math
