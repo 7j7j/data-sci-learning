@@ -1,6 +1,15 @@
 # Learning resources in data science
 Repo of various resources and links for anyone, but especially for motivated undegrad students who have asked via Penn FLASH for mentoring advice.
 
+There are broadly <b>three pillars of data science</b>:
+- <b>Statistics</b>, or know how to apply math
+- <b>Computer science</b>, or knowing how to code math into tools and insights 
+- <b>Domain knowledge</b>, or knowing the actual underlying reality and context of any data you handle so you can design and interpret analysis properly
+
+My philosophy is that quants should respect quals and we should learn from each other. Numbers/quant outcomes point to effects existing and their magnitude, but it takes 
+good qual to define what we should count as well as why and how it matters.
+
+
 # Classes at Penn
 
 I did HSOC + ECON many, many moons ago as an undergrad. For health data science nowadays, I think HSOC + STAT or HSOC + CIS would be an even more potent combo.
