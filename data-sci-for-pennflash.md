@@ -29,10 +29,17 @@ scientists working in policy and business in these times.
 # Classes at Penn
 I did HSOC + ECON many, many moons ago as an undergrad. For health data science nowadays, I think HSOC + STAT or HSOC + CIS would be an even more potent combo.
 However, it is very possible to be exposed to quant tools and research projects that directly translate into data science via BIOL, SOCI, PSCI, all of SEAS, etc. 
-NB many of the best course options likely to be graduate-level, e.g. MS or MPH level biostats is most suited to real-world health data sci, but <a href="https://www.bio.upenn.edu/undergraduate/concentrations/computational-and-mathematical-biology">Penn biology major 
-with computational and mathematical concentration</a> would be excellent at undergrad level.
+NB many of the best course options likely to be graduate-level, e.g. MS or MPH level biostats is most suited to real-world health data sci, but the <a href="https://www.bio.upenn.edu/undergraduate/concentrations/computational-and-mathematical-biology">Penn biology major 
+with computational and mathematical concentration</a> looks like excellent training at undergrad level.
 
-Since I only really transitioned to data science in the last 5 years from my jobs in consulting, I don’t have direct advice for Penn classes beyond the intro stats and comp sci classes. It definitely looks to me like STAT 111, STAT 112, and CIS120 are important prereqs. The <a href="https://catalog.upenn.edu/undergraduate/programs/data-science-minor/">comp sci catalog</a> for Penn's data science minor looks solid. Beyond the prereqs, I don't think there is any obligation to do the full minor although it is obviously an official credential. I definitely suggest going where your interests take you - if you want to do scientific research or evaluation, tools in inference will tend to be your best bet, but creative product and service development includes a very contrasting set of skills, e.g. in NLP/text mining, GIS tools, generative networks, etc.
+Since I only really transitioned to data science in the last 5 years from my jobs in consulting, I don’t have direct advice for Penn classes beyond the intro stats and comp 
+sci classes. STAT 111, STAT 112, and CIS120 are important prereqs. The <a href="https://catalog.upenn.edu/undergraduate/programs/data-science-minor/">comp sci catalog</a> for 
+Penn's data science minor/major is solid. Beyond the prereqs, I don't think there is any obligation to do the full thing to work in data science, although it is obviously an 
+official credential that could help. 
+I definitely recommend going where your interests take you - if you want to do scientific research or evaluation, tools in inference will tend to be your best bet, but 
+creative product and service development includes a very contrasting set of skills. If you want to make and use beautiful maps and location information, learn GIS and take 
+area studies. If you want to spend your career analyzing any sort of text from laws and treaties to patient notes, you will definitely need to learn NLP and you might 
+really benefit from Penn's excellent linguistics department in a class like <a href="https://www.ling.upenn.edu/course-list/2021C">LING 172/PSYC215</a>.
 
 If you nail the initial stats classes, you might be able to get into some of the epi and biostats courses in the School of Medicine in your junior or senior year. Definitely ask with the appropriate academic faculty in SoM to check if they will plausibly let you in as an upperclass student to some of the <a href="https://www.med.upenn.edu/ggeb/bsta-course-descriptions.html">biostats (BSTA) classes</a> - this is more likely if you’ve fulfilled some prereqs like the STAT classes. 
 
