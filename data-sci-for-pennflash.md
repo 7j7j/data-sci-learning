@@ -12,8 +12,8 @@ meaningless without qual: how else do we define what we should count as well as 
 In principle, you can self-learn any of the above, but it really depends on your own motivations and interests what you learn better in a structured classroom. 
 I have personally found my academic training, especially in grad school, essential for the stats and helpful for the coding.
 I work best in team environments and I think most coding is learned by doing: structured work environments are an alternative to class if you are similar to me.
-Domain knowledge is probably best guided by your personal passions and interests in any case. In my case, bio+social science have been in my studies and work for 
-10+ years since freshman year in one form or another: public health is a really good meeting point for these, as is agriculture + nutrition.
+Domain knowledge is probably best guided by your personal passions and interests in any case. In my case, bio+social science have been what I love learning about for 
+15+ years since freshman year in one form or another: public health is a really good meeting point to work on these, as is agriculture & nutrition.
 
 
 # Classes at Penn
