@@ -1,5 +1,8 @@
-# Learning resources in data science
-Repo of various resources and links for anyone, but especially for the fab undegrad students who have asked via Penn FLASH for advice.
+# How do I begin exploring and learning data science?
+A repository of various resources and links for anyone, but especially for the fab undegrad students who have asked via Penn FLASH for advice.
+Targeted especially to those who want to work in health and policy.
+
+What do we actually do? A lot of data cleaning actually! https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists
 
 There are broadly <b>three pillars of data science</b>:
 - <b>Statistics</b>, or knowing how to apply math
@@ -12,8 +15,11 @@ meaningless without qual: how else do we define what we should count as well as 
 In principle, you can self-learn any of the above, but it really depends on your own motivations and interests what you learn better in a structured classroom. 
 I have personally found my academic training, especially in grad school, essential for the stats and helpful for the coding.
 I work best in team environments and I think most coding is learned by doing: structured work environments are an alternative to class if you are similar to me.
-Domain knowledge is probably best guided by your personal passions and interests in any case. In my case, bio+social science have been what I love learning about for 
-15+ years since freshman year in one form or another: public health is a really good meeting point to work on these, as is agriculture & nutrition.
+
+Domain knowledge is probably best guided by your personal passions and interests in any case. In my case, bio+social science have been what I love learning for 15+ years 
+since freshman year in one form or another: public health is a really good meeting point to work on these, as is agriculture & nutrition. I've been really lucky to mostly 
+stay in this space in a career spanning business, policy, nonprofit and academic research work. To be clear, you don't actually have to do the science to know how to 
+commision, apply, and interpret it as a decision maker. But it helps a lot. I would love to see more scientists working in policy and business in these times.
 
 
 # Classes at Penn
