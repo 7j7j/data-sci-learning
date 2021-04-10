@@ -45,7 +45,7 @@ If you nail the initial stats classes, you might be able to get into some of the
 
 <a href="https://economics.sas.upenn.edu/system/files/2019-01/Syllabus_Spring2019_Short.pdf">ECON/HCMG 236</a> is great if you end up doing more economics, but it is very much not an intro course so is only suitable if you do a lot of ECON and/or HCMG. I also personally took <a href="https://www.med.upenn.edu/globalhealth/assets/user-content/documents/PUBH519%20syllabus%202017.pdf">a great Issues in Global Health class (PUBH519)</a> and counted it toward my HSOC requirements. This class is mixed methods (not really data sci at all) but it is very policy-oriented and super interesting.
 
-If you can’t get into the BSTA classes but you can be let into some of <a href="https://www.publichealth.med.upenn.edu/course-listing.html">PUBH ones on Penn's MPH</a>, definitely do those. Intro to biostats would probably be redundant with the above STAT courses, but Intro to Epi (PUBH502) would not and you will almost certainly find the math is easier in classical epi than in biostats. From a quick look at the current MPH syllabus, the most relevant classes to health data science would be:
+If you can’t get into the BSTA classes but you can be let into some of <a href="https://www.publichealth.med.upenn.edu/course-listing.html">PUBH ones on Penn's MPH</a>, definitely do those. Intro to biostats would probably be redundant with the above STAT courses, but Intro to Epi (PUBH502) would not and you will almost certainly find the math is easier in classical epi than in biostats. From a quick look at the current Penn MPH syllabus, the most relevant classes to health data science would be:
 -	PUBH517 – if you want to do geographic mapping and GIS data
 -	PUBH521 – evaluation is one of the main applications of health data sci, although you should check if this one actually includes quant methods
 -	PUBH605 – defo see some biostats/modelling tools implied there
@@ -53,9 +53,10 @@ If you can’t get into the BSTA classes but you can be let into some of <a href
 
 I am almost certain HSOC will let you count any of the above toward your major, if you can get into the classes. Other majors TBD.
 
-Penn in general attracts a lot of hyper-talented applied statisticians so there are more names out there – definitely recommend sneaking into public talks or workshops if the
-opportunity arises: some of the statisticians I frequently cite/read who are currently at Penn are Luke Keele, Paul Rosenbaum, and Eric Tchetgen Tchetgen. I don't think 
-any of them teaches undergrads, but go hear them talk if you can! And know they have many more colleagues who are excellent and pushing the frontiers of data science.
+In general, Penn attracts a lot of hyper-talented applied statisticians – definitely recommend sneaking into public talks or workshops if the opportunity arises: some of the 
+statisticians I frequently cite/read who are currently at Penn are Luke Keele, Paul Rosenbaum, Eric Tchetgen Tchetgen, and Nandini Mitra. 
+I don't think any of them teaches undergrads, but go hear them talk if you can! Many other faculty members are excellent. Academia pushes the frontiers of data science 
+alongside big tech, especially for health applications.
 
 This is not really undergrad level at all but there are public open seminars given by some of these folks and similar in my world of “causal inference”, 
 organised by the Stanford stats department: https://sites.google.com/view/ocis/past-talks-and-recordings?authuser=0
