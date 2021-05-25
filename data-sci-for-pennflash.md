@@ -76,7 +76,7 @@ organised by the Stanford stats department: https://sites.google.com/view/ocis/p
 5.	The longer list here is actually not bad either: https://www.classcentral.com/tag/health-data-analysis
 
 
-# A random selection of courses and tools to learn data science programming, especially in R 
+# A random selection of courses and tools to begin learning data science programming, especially in R 
 1.	Good interactive package to learn R: https://swirlstats.com/ and see https://www.rstudio.com/resources/training/
 2.	Andrew Ng’s very highly regarded intro to ML course (Stanford): https://www.coursera.org/learn/machine-learning
 3.	A generalist data science course (Johns Hopkins biostats faculty,  R, pairing the class above): https://www.coursera.org/specializations/data-science-foundations-r
@@ -84,6 +84,9 @@ organised by the Stanford stats department: https://sites.google.com/view/ocis/p
 5.	Kaggle: https://www.kaggle.com/ (used to be for peer learning competitions, now has all sorts of resources from course content to message boards). It is okay to learn from hackathons but I would definitely recommend doing an intro course first so you can contribute some code/knowledge on how to build stuff.
 6.	A textbook on time series forecasting, which is one of the methods I use: https://otexts.com/fpp2/
 7.	Another excellent open textbook: https://www.statlearning.com/
+8.	How I'd start learning machine learning again (3 years in): https://towardsdatascience.com/how-id-start-learning-machine-learning-again-3-years-in-55c52aaee52a
+9.	Engineering essentials for data science (if you want to start building data and work pipelines that can be scaled as apps or products): https://towardsdatascience.com/engineering-essentials-for-data-science-4a7a92a1ff3e
+10.	Towards Data Science is pretty good in general, for pretty skilled professionals that go beyond my current engineering chops! https://towardsdatascience.com/
 
 
 # Commentaries (understanding ‘what is and isn’t data science’ rather than the mechanics of how to do it):
