@@ -9,6 +9,8 @@ There are broadly <b>three pillars of data science</b>:
 - <b>Computer science</b>, or knowing how to code math into tools and insights 
 - <b>Domain knowledge</b>, or knowing the actual underlying reality and context of any data you handle so you can design and interpret analysis properly
 
+The "Venn diagram" overview of these pillars discussed in this blog post by Tech Vidvan: https://techvidvan.com/tutorials/data-science-venn-diagram/ 
+
 My philosophy is that quants should respect quals and we should learn from each other. Numbers/quant findings point to effects existing and their magnitude, but this is 
 meaningless without qual: how else do we define what we should count as well as why and how it all matters?
 
