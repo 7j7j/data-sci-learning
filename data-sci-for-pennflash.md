@@ -7,7 +7,7 @@ What do we actually do? A lot of data cleaning actually! https://hbr.org/2018/08
 There are broadly <b>three pillars of data science</b>:
 - <b>Statistics</b>, or knowing how to apply math
 - <b>Computer science</b>, or knowing how to code math into tools and insights 
-- <b>Domain knowledge</b>, or knowing the actual underlying reality and context of any data you handle so you can design and interpret analysis properly
+- <b>Domain knowledge</b>, or knowing the actual underlying reality and context of any data (generating process) you handle so you can design and interpret analysis properly
 
 The "Venn diagram" overview of these pillars discussed in this blog post by Tech Vidvan: https://techvidvan.com/tutorials/data-science-venn-diagram/ 
 
@@ -16,7 +16,7 @@ meaningless without qual: how else do we define what we should count as well as 
 
 In principle, you can self-learn any of the above, but it really depends on your own motivations and interests what you learn better in a structured classroom. 
 I have personally found my academic training, especially in grad school, essential for the stats and helpful for the coding.
-I work best in team environments and I think coding is best learned by doing: structured work environments can substitute for classes if you are similar to me, but I think I 
+I work best in team environments and I think coding is best learned by doing, and fluency in all languages requires practice and use: structured work environments can substitute for classes if you are similar to me, but I think I 
 would probably have benefited from the intro CIS classes a lot. It is fab what you can also learn from MOOCs, blogs, and peer message boards now.
 
 Domain knowledge is probably best guided by your personal passions and interests in any case. For example, if you are interested in fintech, take some ECON and Wharton 
@@ -82,12 +82,12 @@ organised by the Stanford stats department: https://sites.google.com/view/ocis/p
 1.	Good interactive package to learn R: https://swirlstats.com/ and see https://www.rstudio.com/resources/training/
 2.	Andrew Ng’s very highly regarded intro to ML course (Stanford): https://www.coursera.org/learn/machine-learning
 3.	A generalist data science course (Johns Hopkins biostats faculty,  R, pairing the class above): https://www.coursera.org/specializations/data-science-foundations-r
-4.	Excellent open textbook in R, specifically Tidyverse (nb if Python and R are the two most common languages of data science, Tidyverse is a very different dialect to base R): https://r4ds.had.co.nz/
+4.	Excellent open textbook in R, specifically Tidyverse by the legendary Hadley Wickham (nb if Python and R are the two most common languages of data science, Tidyverse is an increasingly popular dialect over base R): https://r4ds.had.co.nz/
 5.	Kaggle: https://www.kaggle.com/ (used to be for peer learning competitions, now has all sorts of resources from course content to message boards). It is okay to learn from hackathons but I would definitely recommend doing an intro course first so you can contribute some code/knowledge on how to build stuff.
 6.	A textbook on time series forecasting, which is one of the methods I use: https://otexts.com/fpp2/
 7.	Another excellent open textbook: https://www.statlearning.com/
 8.	How I'd start learning machine learning again (3 years in): https://towardsdatascience.com/how-id-start-learning-machine-learning-again-3-years-in-55c52aaee52a
-9.	Engineering essentials for data science (if you want to start building data and work pipelines that can be scaled as apps or products): https://towardsdatascience.com/engineering-essentials-for-data-science-4a7a92a1ff3e
+9.	Engineering essentials for data science (if you want to start building data and work pipelines that can be scaled as apps or products, eg from CPU to GPU): https://towardsdatascience.com/engineering-essentials-for-data-science-4a7a92a1ff3e
 10.	Towards Data Science is pretty good in general, for pretty skilled professionals that go beyond my current engineering chops! https://towardsdatascience.com/
 11.	An apt metaphor and a fab, friendly community of fellow research calculation machine builders
 https://software-carpentry.org/
