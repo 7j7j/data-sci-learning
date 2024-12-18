@@ -89,6 +89,8 @@ organised by the Stanford stats department: https://sites.google.com/view/ocis/p
 8.	How I'd start learning machine learning again (3 years in): https://towardsdatascience.com/how-id-start-learning-machine-learning-again-3-years-in-55c52aaee52a
 9.	Engineering essentials for data science (if you want to start building data and work pipelines that can be scaled as apps or products): https://towardsdatascience.com/engineering-essentials-for-data-science-4a7a92a1ff3e
 10.	Towards Data Science is pretty good in general, for pretty skilled professionals that go beyond my current engineering chops! https://towardsdatascience.com/
+11.	An apt metaphor and a fab, friendly community of fellow research calculation machine builders
+https://software-carpentry.org/
 
 
 # Commentaries (understanding ‘what is and isn’t data science’ rather than the mechanics of how to do it):
